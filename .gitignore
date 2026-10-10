@@ -1,0 +1,10 @@
+Prevents local model files and generated files from being uploaded.
+
+.venv/
+__pycache__/
+*.pyc
+.env
+generated_audio/
+.cache/
+*.onnx
+*.onnx.json
